@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\aleksei goliguzov\documents\github\objectrecognition\objectrecognition\main.cpp(27): warning C4244: аргумент: преобразование "const DOUBLE" в "int", возможна потеря данных
+  ObjectRecognition.vcxproj -> C:\Users\Aleksei goliguzov\Documents\Github\ObjectRecognition\x64\Debug\ObjectRecognition.exe
