@@ -302,3 +302,4 @@ __pycache__/
 /Debug/*
 /Release/*
 /x64/*
+/x86/*
